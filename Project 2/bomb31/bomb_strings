@@ -1,0 +1,853 @@
+    238 /lib64/ld-linux-x86-64.so.2
+    629 libc.so.6
+    633 socket
+    63a fflush
+    641 strcpy
+    648 __printf_chk
+    655 exit
+    65a fopen
+    660 __isoc99_sscanf
+    670 connect
+    678 signal
+    67f puts
+    684 __stack_chk_fail
+    695 stdin
+    69b strtol
+    6a2 fgets
+    6a8 __errno_location
+    6b9 read
+    6be __fprintf_chk
+    6cc stdout
+    6d3 __memmove_chk
+    6e1 strcasecmp
+    6ec __ctype_b_loc
+    6fa getenv
+    701 stderr
+    708 alarm
+    70e gethostbyname
+    71c gethostname
+    728 close
+    72e sleep
+    734 __cxa_finalize
+    743 __sprintf_chk
+    751 __libc_start_main
+    763 write
+    769 GLIBC_2.3
+    773 GLIBC_2.7
+    77d GLIBC_2.3.4
+    789 GLIBC_2.4
+    793 GLIBC_2.2.5
+    79f _ITM_deregisterTMCloneTable
+    7bb __gmon_start__
+    7ca _ITM_registerTMCloneTable
+   33a1 %zK 
+   33b1 %rK 
+   33c1 %jK 
+   33d1 %bK 
+   33e1 %ZK 
+   33f1 %RK 
+   3401 %JK 
+   3411 %BK 
+   3421 %:K 
+   3431 %2K 
+   3441 %*K 
+   3451 %"K 
+   3552 =)M!
+   3ace AUATUSH
+   3ae3 D$X1
+   3b77 \$ H
+   3b7c D$(H
+   3b85 T$0H
+   3b8e D$8H
+   3b97 T$@H
+   3ba0 D$HH
+   3bd2 D$XdH3
+   3be3 h[]A\A]
+   3d26 ATUSH
+   3d4c []A\
+   3d56 t':E
+   3e28 T$@H
+   3fb9 5bA 
+   3fc0 =sA 
+   41cb ***truncH
+   41d5 ated***
+   41fa D$h1
+   4214 D$hdH3
+   4243 =hA!
+   42df AVAUATUSH
+   436a []A\A]A^
+   439b AWAVAUATUSH
+   43bd D$ L
+   4422 l$@H
+   452f D$(I
+   4543 Error: CH
+   454d lient unI
+   455e able to H
+   4568 create sI
+   457a G ockefA
+   4593 Error: DH
+   459d NS is unI
+   45ae able to H
+   45b8 resolve I
+   45ca server aI
+   45d8 G(ddrefA
+   45e1 G,ssA
+   45fe Error: UH
+   4608 nable toI
+   4619  connectH
+   4623  to the I
+   4635 G servfA
+   463e G$erA
+   465b Error: RH
+   4665 esult stI
+   4676 ring tooH
+   4680  large. I
+   4692 IncreaseH
+   469c  SUBMITRI
+   46ae _MAXBUF
+   4703  t`A
+   47b9 |$PH
+   47c2 D$XH
+   47e2 L$<H
+   4810 D$<A
+   4865 Error: CH
+   486f lient unI
+   4880 able to H
+   488a read heaI
+   489c ders froH
+   48a6 m serverI
+   48cf Error: CH
+   48d9 lient unI
+   48ea able to H
+   48f4 write toI
+   4906  the serI
+   4914 G(ver
+   492e Error: CH
+   4938 lient unI
+   4949 able to H
+   4953 read firI
+   4965 st headeH
+   496f r from sI
+   4981 G0ervefA
+   4a49 []A\A]A^A_
+   4a56 Error: CH
+   4a60 lient unI
+   4a71 able to H
+   4a7b read staI
+   4a8d tus messH
+   4a97 age fromI
+   4aa9  server
+   4ac9 Error: RH
+   4ad3 esult stI
+   4ae4 ring conH
+   4aee tains anI
+   4b00  illegalH
+   4b0a  or unprI
+   4b1c intable H
+   4b26 characteI
+   4b34 W8fA
+   4b39 G@r.A
+   4b6e t$8L
+   4b73 L$0L
+   4b78 D$(H
+   4c07 ATUSH
+   4ce3 $OKA
+   4d08  []A\
+   4d10 Error: CH
+   4d1a lient unI
+   4d2d able to H
+   4d37 create sI
+   4d4b D$ ockefA
+   4d55 D$$t
+   4d63 Error: DH
+   4d6d NS is unI
+   4d80 able to H
+   4d8a resolve I
+   4d9e server aI
+   4da8 D$ A
+   4dad D$(ddrefA
+   4db7 D$,ssA
+   4e55 APRL
+   4e90 AWAVI
+   4e97 AUATL
+   4e9d %F. 
+   4ea5 -F. 
+   4eea []A\A]A^A_
+   4f26 %s: Error: Couldn't open %s
+   4f43 Usage: %s [<input_file>]
+   4f5d That's number 2.  Keep going!
+   4f7b Halfway there!
+   4f8a Good work!  On to the next...
+   4fa8 Welcome to my fiendish little bomb. You have 6 phases with
+   4fe8 which to blow yourself up. Have a nice day!
+   5018 Phase 1 defused. How about the next one?
+   5048 So you got that one.  Try this one.
+   5070 I can see Russia from my house!
+   5090 Wow! You've defused the secret stage!
+   50b6 %d %c %d
+   5120 So you think you can stop the bomb with ctrl-c, do you?
+   5158 Initialization error: Running on an illegal host [1]
+   5190 Initialization error: Running on an illegal host [2]
+   51c8 ERROR: Input string is too large.
+   51f0 Your instructor has been notified.
+   5218 Curses, you've found the secret phase!
+   5240 But finding it and solving it are quite different...
+   5278 Congratulations! You've defused the bomb!
+   52a8 Your instructor has been notified and will verify your solution.
+   52e9 Well...
+   52f1 OK. :-)
+   52f9 Invalid phase%s
+   530a Initialization error:
+   5324 defused
+   532c exploded
+   5335 %d:%s:%d:%s
+   5342 BOOM!!!
+   534a The bomb has blown up.
+   5361 %d %d %d %d %d %d
+   5373 Error: Premature EOF on stdin
+   5391 GRADE_BOMB
+   539c Error: Input line too long
+   53b7 %d %d %s
+   53c0 DrEvil
+   53c7 linux-01
+   53d0 linux-02
+   53d9 linux-03
+   53e2 linux-04
+   53eb linux-05
+   53f4 linux-06
+   53fd linux-07
+   5406 linux-08
+   540f linux-09
+   5418 linux-10
+   5421 linux-11
+   542a linux-12
+   5433 linux-13
+   543c linux-14
+   5445 linux-15
+   544e linux-16
+   5457 linux-17
+   5460 linux-18
+   5469 linux-19
+   5472 linux-20
+   547b cf414-01
+   5484 cf416-01
+   548d cf418-01
+   5496 cf162-01
+   549f cf164-01
+   54a8 cf165-01
+   54b1 cf167-01
+   54ba cf405-01
+   54c3 cf414-02
+   54cc cf416-02
+   54d5 cf418-02
+   54de cf162-02
+   54e7 cf164-02
+   54f0 cf165-02
+   54f9 cf167-02
+   5502 cf405-02
+   550b cf414-03
+   5514 cf416-03
+   551d cf418-03
+   5526 cf162-03
+   552f cf164-03
+   5538 cf165-03
+   5541 cf167-03
+   554a cf405-03
+   5553 cf414-04
+   555c cf416-04
+   5565 cf418-04
+   556e cf162-04
+   5577 cf164-04
+   5580 cf165-04
+   5589 cf167-04
+   5592 cf405-04
+   559b cf414-05
+   55a4 cf416-05
+   55ad cf418-05
+   55b6 cf162-05
+   55bf cf164-05
+   55c8 cf165-05
+   55d1 cf167-05
+   55da cf405-05
+   55e3 cf414-06
+   55ec cf416-06
+   55f5 cf418-06
+   55fe cf162-06
+   5607 cf164-06
+   5610 cf165-06
+   5619 cf167-06
+   5622 cf405-06
+   562b cf414-07
+   5634 cf416-07
+   563d cf418-07
+   5646 cf162-07
+   564f cf164-07
+   5658 cf165-07
+   5661 cf167-07
+   566a cf405-07
+   5673 cf414-08
+   567c cf416-08
+   5685 cf418-08
+   568e cf162-08
+   5697 cf164-08
+   56a0 cf165-08
+   56a9 cf167-08
+   56b2 cf405-08
+   56bb cf414-09
+   56c4 cf416-09
+   56cd cf418-09
+   56d6 cf162-09
+   56df cf164-09
+   56e8 cf165-09
+   56f1 cf167-09
+   56fa cf405-09
+   5703 cf414-10
+   570c cf416-10
+   5715 cf418-10
+   571e cf162-10
+   5727 cf164-10
+   5730 cf165-10
+   5739 cf167-10
+   5742 cf405-10
+   574b cf414-11
+   5754 cf416-11
+   575d cf418-11
+   5766 cf162-11
+   576f cf164-11
+   5778 cf165-11
+   5781 cf167-11
+   578a cf405-11
+   5793 cf414-12
+   579c cf416-12
+   57a5 cf418-12
+   57ae cf162-12
+   57b7 cf164-12
+   57c0 cf165-12
+   57c9 cf167-12
+   57d2 cf405-12
+   57db cf414-13
+   57e4 cf416-13
+   57ed cf418-13
+   57f6 cf162-13
+   57ff cf164-13
+   5808 cf165-13
+   5811 cf167-13
+   581a cf405-13
+   5823 cf414-14
+   582c cf416-14
+   5835 cf418-14
+   583e cf162-14
+   5847 cf164-14
+   5850 cf165-14
+   5859 cf167-14
+   5862 cf405-14
+   586b cf414-15
+   5874 cf416-15
+   587d cf418-15
+   5886 cf162-15
+   588f cf164-15
+   5898 cf165-15
+   58a1 cf167-15
+   58aa cf405-15
+   58b3 cf414-16
+   58bc cf416-16
+   58c5 cf418-16
+   58ce cf162-16
+   58d7 cf164-16
+   58e0 cf165-16
+   58e9 cf167-16
+   58f2 cf405-16
+   58fb cf414-17
+   5904 cf416-17
+   590d cf418-17
+   5916 cf162-17
+   591f cf164-17
+   5928 cf165-17
+   5931 cf167-17
+   593a cf405-17
+   5943 cf414-18
+   594c cf416-18
+   5955 cf418-18
+   595e cf162-18
+   5967 cf164-18
+   5970 cf165-18
+   5979 cf167-18
+   5982 cf405-18
+   598b cf414-19
+   5994 cf416-19
+   599d cf418-19
+   59a6 cf162-19
+   59af cf164-19
+   59b8 cf165-19
+   59c1 cf167-19
+   59ca cf405-19
+   59d3 cf414-20
+   59dc cf416-20
+   59e5 cf418-20
+   59ee cf162-20
+   59f7 cf164-20
+   5a00 cf165-20
+   5a09 cf167-20
+   5a12 cf405-20
+   5a1b scofield
+   5a24 scofield.cs.wwu.edu
+   5a38 bucky
+   5a3e bucky.cs.wwu.edu
+   5a4f cf473-01
+   5a58 django
+   5a5f django.cs.wwu.edu
+   5a71 vignola
+   5a79 vignola.cs.wwu.edu
+   5a8c cf162-21
+   5a95 cf164-21
+   5a9e cf165-21
+   5aa7 cf167-21
+   5ab0 cf405-21
+   5ab9 cf162-22
+   5ac2 cf164-22
+   5acb cf165-22
+   5ad4 cf167-22
+   5add cf405-22
+   5ae6 cf162-23
+   5aef cf164-23
+   5af8 cf165-23
+   5b01 cf167-23
+   5b0a cf405-23
+   5b13 cf162-24
+   5b1c cf164-24
+   5b25 cf165-24
+   5b2e cf167-24
+   5b37 cf405-24
+   5b40 cf162-25
+   5b49 cf164-25
+   5b52 cf165-25
+   5b5b cf167-25
+   5b64 cf405-25
+   5b6d cf416-01.cs.wwu.edu
+   5b81 cf418-01.cs.wwu.edu
+   5b95 cf162-01.cs.wwu.edu
+   5ba9 cf164-01.cs.wwu.edu
+   5bbd cf165-01.cs.wwu.edu
+   5bd1 cf167-01.cs.wwu.edu
+   5be5 cf405-01.cs.wwu.edu
+   5bf9 cf414-02.cs.wwu.edu
+   5c0d cf416-02.cs.wwu.edu
+   5c21 cf418-02.cs.wwu.edu
+   5c35 cf162-02.cs.wwu.edu
+   5c49 cf164-02.cs.wwu.edu
+   5c5d cf165-02.cs.wwu.edu
+   5c71 cf167-02.cs.wwu.edu
+   5c85 cf405-02.cs.wwu.edu
+   5c99 cf414-03.cs.wwu.edu
+   5cad cf416-03.cs.wwu.edu
+   5cc1 cf418-03.cs.wwu.edu
+   5cd5 cf162-03.cs.wwu.edu
+   5ce9 cf164-03.cs.wwu.edu
+   5cfd cf165-03.cs.wwu.edu
+   5d11 cf167-03.cs.wwu.edu
+   5d25 cf405-03.cs.wwu.edu
+   5d39 cf414-04.cs.wwu.edu
+   5d4d cf416-04.cs.wwu.edu
+   5d61 cf418-04.cs.wwu.edu
+   5d75 cf162-04.cs.wwu.edu
+   5d89 cf164-04.cs.wwu.edu
+   5d9d cf165-04.cs.wwu.edu
+   5db1 cf167-04.cs.wwu.edu
+   5dc5 cf405-04.cs.wwu.edu
+   5dd9 cf414-05.cs.wwu.edu
+   5ded cf416-05.cs.wwu.edu
+   5e01 cf418-05.cs.wwu.edu
+   5e15 cf162-05.cs.wwu.edu
+   5e29 cf164-05.cs.wwu.edu
+   5e3d cf165-05.cs.wwu.edu
+   5e51 cf167-05.cs.wwu.edu
+   5e65 cf405-05.cs.wwu.edu
+   5e79 cf414-06.cs.wwu.edu
+   5e8d cf416-06.cs.wwu.edu
+   5ea1 cf418-06.cs.wwu.edu
+   5eb5 cf162-06.cs.wwu.edu
+   5ec9 cf164-06.cs.wwu.edu
+   5edd cf165-06.cs.wwu.edu
+   5ef1 cf167-06.cs.wwu.edu
+   5f05 cf405-06.cs.wwu.edu
+   5f19 cf414-07.cs.wwu.edu
+   5f2d cf416-07.cs.wwu.edu
+   5f41 cf418-07.cs.wwu.edu
+   5f55 cf162-07.cs.wwu.edu
+   5f69 cf164-07.cs.wwu.edu
+   5f7d cf165-07.cs.wwu.edu
+   5f91 cf167-07.cs.wwu.edu
+   5fa5 cf405-07.cs.wwu.edu
+   5fb9 cf414-08.cs.wwu.edu
+   5fcd cf416-08.cs.wwu.edu
+   5fe1 cf418-08.cs.wwu.edu
+   5ff5 cf162-08.cs.wwu.edu
+   6009 cf164-08.cs.wwu.edu
+   601d cf165-08.cs.wwu.edu
+   6031 cf167-08.cs.wwu.edu
+   6045 cf405-08.cs.wwu.edu
+   6059 cf414-09.cs.wwu.edu
+   606d cf416-09.cs.wwu.edu
+   6081 cf418-09.cs.wwu.edu
+   6095 cf162-09.cs.wwu.edu
+   60a9 cf164-09.cs.wwu.edu
+   60bd cf165-09.cs.wwu.edu
+   60d1 cf167-09.cs.wwu.edu
+   60e5 cf405-09.cs.wwu.edu
+   60f9 cf414-10.cs.wwu.edu
+   610d cf416-10.cs.wwu.edu
+   6121 cf418-10.cs.wwu.edu
+   6135 cf162-10.cs.wwu.edu
+   6149 cf164-10.cs.wwu.edu
+   615d cf165-10.cs.wwu.edu
+   6171 cf167-10.cs.wwu.edu
+   6185 cf405-10.cs.wwu.edu
+   6199 cf414-11.cs.wwu.edu
+   61ad cf416-11.cs.wwu.edu
+   61c1 cf418-11.cs.wwu.edu
+   61d5 cf162-11.cs.wwu.edu
+   61e9 cf164-11.cs.wwu.edu
+   61fd cf165-11.cs.wwu.edu
+   6211 cf167-11.cs.wwu.edu
+   6225 cf405-11.cs.wwu.edu
+   6239 cf414-12.cs.wwu.edu
+   624d cf416-12.cs.wwu.edu
+   6261 cf418-12.cs.wwu.edu
+   6275 cf162-12.cs.wwu.edu
+   6289 cf164-12.cs.wwu.edu
+   629d cf165-12.cs.wwu.edu
+   62b1 cf167-12.cs.wwu.edu
+   62c5 cf405-12.cs.wwu.edu
+   62d9 cf414-13.cs.wwu.edu
+   62ed cf416-13.cs.wwu.edu
+   6301 cf418-13.cs.wwu.edu
+   6315 cf162-13.cs.wwu.edu
+   6329 cf164-13.cs.wwu.edu
+   633d cf165-13.cs.wwu.edu
+   6351 cf167-13.cs.wwu.edu
+   6365 cf405-13.cs.wwu.edu
+   6379 cf414-14.cs.wwu.edu
+   638d cf416-14.cs.wwu.edu
+   63a1 cf418-14.cs.wwu.edu
+   63b5 cf162-14.cs.wwu.edu
+   63c9 cf164-14.cs.wwu.edu
+   63dd cf165-14.cs.wwu.edu
+   63f1 cf167-14.cs.wwu.edu
+   6405 cf405-14.cs.wwu.edu
+   6419 cf414-15.cs.wwu.edu
+   642d cf416-15.cs.wwu.edu
+   6441 cf418-15.cs.wwu.edu
+   6455 cf162-15.cs.wwu.edu
+   6469 cf164-15.cs.wwu.edu
+   647d cf165-15.cs.wwu.edu
+   6491 cf167-15.cs.wwu.edu
+   64a5 cf405-15.cs.wwu.edu
+   64b9 cf414-16.cs.wwu.edu
+   64cd cf416-16.cs.wwu.edu
+   64e1 cf418-16.cs.wwu.edu
+   64f5 cf162-16.cs.wwu.edu
+   6509 cf164-16.cs.wwu.edu
+   651d cf165-16.cs.wwu.edu
+   6531 cf167-16.cs.wwu.edu
+   6545 cf405-16.cs.wwu.edu
+   6559 cf414-17.cs.wwu.edu
+   656d cf416-17.cs.wwu.edu
+   6581 cf418-17.cs.wwu.edu
+   6595 cf162-17.cs.wwu.edu
+   65a9 cf164-17.cs.wwu.edu
+   65bd cf165-17.cs.wwu.edu
+   65d1 cf167-17.cs.wwu.edu
+   65e5 cf405-17.cs.wwu.edu
+   65f9 cf414-18.cs.wwu.edu
+   660d cf416-18.cs.wwu.edu
+   6621 cf418-18.cs.wwu.edu
+   6635 cf162-18.cs.wwu.edu
+   6649 cf164-18.cs.wwu.edu
+   665d cf165-18.cs.wwu.edu
+   6671 cf167-18.cs.wwu.edu
+   6685 cf405-18.cs.wwu.edu
+   6699 cf414-19.cs.wwu.edu
+   66ad cf416-19.cs.wwu.edu
+   66c1 cf418-19.cs.wwu.edu
+   66d5 cf162-19.cs.wwu.edu
+   66e9 cf164-19.cs.wwu.edu
+   66fd cf165-19.cs.wwu.edu
+   6711 cf167-19.cs.wwu.edu
+   6725 cf405-19.cs.wwu.edu
+   6739 cf414-20.cs.wwu.edu
+   674d cf416-20.cs.wwu.edu
+   6761 cf418-20.cs.wwu.edu
+   6775 cf162-20.cs.wwu.edu
+   6789 cf164-20.cs.wwu.edu
+   679d cf165-20.cs.wwu.edu
+   67b1 cf167-20.cs.wwu.edu
+   67c5 cf405-20.cs.wwu.edu
+   67d9 cf162-21.cs.wwu.edu
+   67ed cf164-21.cs.wwu.edu
+   6801 cf165-21.cs.wwu.edu
+   6815 cf167-21.cs.wwu.edu
+   6829 cf405-21.cs.wwu.edu
+   683d cf162-22.cs.wwu.edu
+   6851 cf164-22.cs.wwu.edu
+   6865 cf165-22.cs.wwu.edu
+   6879 cf167-22.cs.wwu.edu
+   688d cf405-22.cs.wwu.edu
+   68a1 cf162-23.cs.wwu.edu
+   68b5 cf164-23.cs.wwu.edu
+   68c9 cf165-23.cs.wwu.edu
+   68dd cf167-23.cs.wwu.edu
+   68f1 cf405-23.cs.wwu.edu
+   6905 cf162-24.cs.wwu.edu
+   6919 cf164-24.cs.wwu.edu
+   692d cf165-24.cs.wwu.edu
+   6941 cf167-24.cs.wwu.edu
+   6955 cf405-24.cs.wwu.edu
+   6969 cf162-25.cs.wwu.edu
+   697d cf164-25.cs.wwu.edu
+   6991 cf165-25.cs.wwu.edu
+   69a5 cf167-25.cs.wwu.edu
+   69b9 cf405-25.cs.wwu.edu
+   69d0 Program timed out after %d seconds
+   69f8 Error: HTTP request failed with error %d: %s
+   6a28 GET /%s/submitr.pl/?userid=%s&userpwd=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+   6a80 Error: Unable to connect to server %s
+   6aa8 %%%02X
+   6aaf %s %d %[a-zA-z ]
+   6ac7 AUTORESULT_STRING=%s
+   6ae1 csapp
+   6c6f ;*3$"
+   8120 o5KByld9pdm1p0QIRJti
+   8138 haganc3
+  18280 GCC: (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+  18a12 <Welcome to my fiendish little bomb. You have 6 phases with
+  18a61 -which to blow yourself up. Have a nice day!
+  18a92 *Phase 1 defused. How about the next one?
+  18ac1 That's number 2.  Keep going!
+  18ae4 Halfway there!
+  18af7 %So you got that one.  Try this one.
+  18b21 Good work!  On to the next...
+  18da9 /usr/include/x86_64-linux-gnu/bits
+  18dcc /usr/lib/gcc/x86_64-linux-gnu/7/include
+  18df4 /usr/include/x86_64-linux-gnu/bits/types
+  18e1d /usr/include
+  18e2b bomb.c
+  18e35 stdio2.h
+  18e41 stddef.h
+  18e4d types.h
+  18e58 libio.h
+  18e63 FILE.h
+  18e6d stdio.h
+  18e78 sys_errlist.h
+  18e89 support.h
+  18e96 phases.h
+  18ea2 stdlib.h
+  18eae <built-in>
+  18f34 printf
+  18f3b __off_t
+  18f43 _IO_read_ptr
+  18f50 _chain
+  18f57 GNU C11 7.4.0 -mtune=generic -march=x86-64 -ggdb -O1 -fstack-protector-strong
+  18fa5 size_t
+  18fac _shortbuf
+  18fb6 _IO_2_1_stderr_
+  18fc6 _IO_buf_base
+  18fd3 long long unsigned int
+  18fea read_line
+  18ff4 long long int
+  19002 phase_defused
+  19010 _fileno
+  19018 _IO_read_end
+  19025 _flags
+  1902c _IO_buf_end
+  19038 _cur_column
+  19044 __printf_chk
+  19051 _old_offset
+  1905d infile
+  19064 initialize_bomb
+  19074 _IO_marker
+  1907f stdin
+  19085 _IO_FILE_plus
+  19093 _IO_write_ptr
+  190a1 sys_nerr
+  190aa _sbuf
+  190b0 short unsigned int
+  190c3 _IO_save_base
+  190d1 _lock
+  190d7 _flags2
+  190df _mode
+  190e5 __builtin_puts
+  190f4 stdout
+  190fb _IO_2_1_stdin_
+  1910a _IO_write_end
+  19118 _IO_lock_t
+  19123 _IO_FILE
+  1912c fopen
+  19132 _pos
+  19137 sys_errlist
+  19143 _markers
+  1914c unsigned char
+  1915a short int
+  19164 _vtable_offset
+  19173 _IO_2_1_stdout_
+  19183 exit
+  19188 bomb.c
+  1918f input
+  19195 _next
+  1919b __off64_t
+  191a5 _IO_read_base
+  191b3 _IO_save_end
+  191c0 __fmt
+  191c6 __pad1
+  191cd __pad2
+  191d4 __pad3
+  191db __pad4
+  191e2 __pad5
+  191e9 _unused2
+  191f2 stderr
+  191f9 argv
+  191fe phase_1
+  19206 phase_2
+  1920e phase_3
+  19216 phase_4
+  1921e phase_5
+  19226 phase_6
+  1922e _IO_backup_base
+  1923e argc
+  19243 main
+  19248 _IO_write_base
+  19257 /home/michael/247/bomblab/src
+  1a451 crtstuff.c
+  1a45c deregister_tm_clones
+  1a471 __do_global_dtors_aux
+  1a487 completed.7697
+  1a496 __do_global_dtors_aux_fini_array_entry
+  1a4bd frame_dummy
+  1a4c9 __frame_dummy_init_array_entry
+  1a4e8 bomb.c
+  1a4ef phases.c
+  1a4f8 array.3418
+  1a503 support.c
+  1a50d sig_handler
+  1a519 driverlib.c
+  1a525 rio_readlineb
+  1a533 __FRAME_END__
+  1a541 __init_array_end
+  1a552 _DYNAMIC
+  1a55b __init_array_start
+  1a56e __GNU_EH_FRAME_HDR
+  1a581 _GLOBAL_OFFSET_TABLE_
+  1a597 __libc_csu_fini
+  1a5a7 skip
+  1a5ac getenv@@GLIBC_2.2.5
+  1a5c0 phase_defused
+  1a5d2 strcasecmp@@GLIBC_2.2.5
+  1a5ea __errno_location@@GLIBC_2.2.5
+  1a608 _ITM_deregisterTMCloneTable
+  1a624 stdout@@GLIBC_2.2.5
+  1a638 strcpy@@GLIBC_2.2.5
+  1a650 puts@@GLIBC_2.2.5
+  1a662 stdin@@GLIBC_2.2.5
+  1a675 write@@GLIBC_2.2.5
+  1a688 _edata
+  1a69f __stack_chk_fail@@GLIBC_2.4
+  1a6bb num_input_strings
+  1a6cd phase_5
+  1a6d5 initialize_bomb_solve
+  1a6eb blank_line
+  1a6f6 submitr
+  1a6fe phase_3
+  1a706 phase_1
+  1a70e invalid_phase
+  1a71c init_driver
+  1a728 alarm@@GLIBC_2.2.5
+  1a73b close@@GLIBC_2.2.5
+  1a74e node3
+  1a754 read@@GLIBC_2.2.5
+  1a766 __libc_start_main@@GLIBC_2.2.5
+  1a785 fgets@@GLIBC_2.2.5
+  1a798 explode_bomb
+  1a7a5 node1
+  1a7ab __data_start
+  1a7b8 signal@@GLIBC_2.2.5
+  1a7cc gethostbyname@@GLIBC_2.2.5
+  1a7e7 node5
+  1a7ed __memmove_chk@@GLIBC_2.3.4
+  1a808 __gmon_start__
+  1a817 strtol@@GLIBC_2.2.5
+  1a82b fun7
+  1a830 __dso_handle
+  1a83d _IO_stdin_used
+  1a850 host_table
+  1a85b func4
+  1a864 string_length
+  1a872 __libc_csu_init
+  1a882 fflush@@GLIBC_2.2.5
+  1a896 __isoc99_sscanf@@GLIBC_2.7
+  1a8b9 secret_phase
+  1a8c6 infile
+  1a8cd sigalrm_handler
+  1a8dd init_timeout
+  1a8ea __bss_start
+  1a8f6 userid
+  1a8fd main
+  1a902 __printf_chk@@GLIBC_2.3.4
+  1a928 read_line
+  1a936 strings_not_equal
+  1a948 phase_4
+  1a950 fopen@@GLIBC_2.2.5
+  1a963 phase_6
+  1a96b scratch
+  1a973 driver_post
+  1a97f send_msg
+  1a988 phase_2
+  1a990 gethostname@@GLIBC_2.2.5
+  1a9a9 exit@@GLIBC_2.2.5
+  1a9bb bomb_id
+  1a9c3 connect@@GLIBC_2.2.5
+  1a9d8 __TMC_END__
+  1a9e4 __fprintf_chk@@GLIBC_2.3.4
+  1a9ff _ITM_registerTMCloneTable
+  1aa19 node2
+  1aa1f node4
+  1aa25 user_password
+  1aa33 sleep@@GLIBC_2.2.5
+  1aa46 node6
+  1aa4c __cxa_finalize@@GLIBC_2.2.5
+  1aa68 read_six_numbers
+  1aa7d initialize_bomb
+  1aa8d __ctype_b_loc@@GLIBC_2.3
+  1aaa6 stderr@@GLIBC_2.2.5
+  1aaba __sprintf_chk@@GLIBC_2.3.4
+  1aad5 socket@@GLIBC_2.2.5
+  1aaea .symtab
+  1aaf2 .strtab
+  1aafa .shstrtab
+  1ab04 .interp
+  1ab0c .note.ABI-tag
+  1ab1a .note.gnu.build-id
+  1ab2d .gnu.hash
+  1ab37 .dynsym
+  1ab3f .dynstr
+  1ab47 .gnu.version
+  1ab54 .gnu.version_r
+  1ab63 .rela.dyn
+  1ab6d .rela.plt
+  1ab77 .init
+  1ab7d .plt.got
+  1ab86 .text
+  1ab8c .fini
+  1ab92 .rodata
+  1ab9a .eh_frame_hdr
+  1aba8 .eh_frame
+  1abb2 .init_array
+  1abbe .fini_array
+  1abca .dynamic
+  1abd3 .data
+  1abd9 .bss
+  1abde .comment
+  1abe7 .debug_aranges
+  1abf6 .debug_info
+  1ac02 .debug_abbrev
+  1ac10 .debug_line
+  1ac1c .debug_str
+  1ac27 .debug_loc

